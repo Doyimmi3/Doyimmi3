@@ -80,7 +80,3 @@
 
 [![Discord](https://img.shields.io/badge/Discord-DM%20me!-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-0077B5?style=for-the-badge&logo=behance&logoColor=white)](https://doyimmi3.com)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Doyimmi3&color=5865F2&style=for-the-badge" alt="Profile views" />
-</div>
